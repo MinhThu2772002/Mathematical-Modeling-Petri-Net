@@ -1,0 +1,67 @@
+.LOG
+
+8:19 PM 10/28/2021
+Team meeting: "Plan for Assignment “Petri Net” WEEK 1"
+MISSION: Prepare the latex report : Premilinary Knowledge.
+Trịnh Võ Hoàng Nam:   5.1 INTRODUCTION to Process Mining
+Nguyễn Minh Hùng:     5.2 PETRI NETWORKS- Background
+Nguyễn Quốc Minh Thư: 5.3 PETRI NETWORKS- Behaviors.
+La Kỳ Phương:         5.4 PETRI NETWORKS - Structures and Basic Problems.
+Trần Trang Kỳ Phong:  5.5 SUMMARY and REVIEWED PROBLEMS.
+Nguyễn Công Đạt:      5.6 PETRI NETS- ASSIGNMENT on MODELING (1 -> 3)
+Deadline for WEEK 1: 20h 10/11/2021.
+The next meeting is on 11/11/2021. 
+
+7:41 PM 11/11/2021
+Result of week 1:  
+Team meeting: "Review The Attempt and Plan for Assignment “Peri Net” WEEK 3"
+Content: Each member shows their work on the mission and explained it to others.
+After discusing and realising some shortcoming:
+MISSION: Complete and perfect the work on the latex report - Premilinary Knowledge.
+The next meeting is on 15/11/2021.
+
+7:01 PM 11/15/2021
+Team meeting:" "Plan for Assignment “Petri Net” WEEK 3"
+MISSION:"Prepare the latex report for Problems on Petri Net".
+Content: discusing about general ideas how to solve those problems
+Nguyễn Quốc Minh Thư: Problem 1
+La Kỳ Phương:         Problem 2.
+Trịnh Võ Hoàng Nam:   Problem 3.
+Nguyễn Minh Hùng:     Problem 4.
+Trần Trang Kỳ Phong:  Problem 5.
+Nguyễn Công Đạt:      Problem 6.
+Deadline for WEEK 3: 16h 19/11/2021.
+The next meeting is on 20/11/2021. 
+
+7:12 PM 11/20/2021
+Team meeting:"Strategy for Assignment “Petri Net” WEEK 4"
+Mission: "Finish problem 7 together"
+Working together on coding problem 7. Sharing VSCode (live share) for 
+6 members and work for 2.5 hours.
+Trịnh Võ Hoàng Nam:   Class Transtion.
+Nguyễn Minh Hùng:     Class Transtion.
+Nguyễn Quốc Minh Thư: Class Petri.
+La Kỳ Phương:         Class Place.
+Trần Trang Kỳ Phong:  Class Petri.
+Nguyễn Công Đạt:      Main.cpp, supervisor and operator of the work.
+The next meeting is on 11/21/2021. 
+
+7:46 PM 11/21/2021
+Team meeting:" Review The Attempt “Petri Net” WEEK 4"
+Mission: "Debugging the program and Review all the Problems  "
+Run code and perfect the interface of Petri program.
+Perfect the latex report.
+The next meeting is on 11/22/2021. 
+
+7:11 PM 11/22/2021
+Team meeting:"Strategy for Assignment “Petri Net” WEEK 4"
+Content: Each member shows their work on the mission and explained it to others.
+After discusing and realising some shortcoming.
+MISSION: Complete and perfect the work.
+The next meeting is on 11/29/2021.
+ 
+7:01 PM 11/29/2021
+Team meeting:"Reviewing all the work for Assignment “Petri Net” WEEK 4"
+Content: Summing up all the work, fix it and adjust the report perfectly.
+- Discusing again about general view of the assignment prepare for submitting.
+
