@@ -1,4 +1,4 @@
-Hi teacher! This is a submission of our group.
+
 In our submission folder, we have files:
 - "report.pdf": this file is a report of our group.
 - "petri-net.exe": this file is an executable file for problem 7.
